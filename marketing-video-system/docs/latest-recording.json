@@ -1,0 +1,19 @@
+{
+  "status": "ready",
+  "source_storyboard": "artifacts/runs/storyboard-20261014-025204-329111/storyboard.json",
+  "manifest": "artifacts/runs/recording-20261014-025738-701203/recording-manifest.json",
+  "report": "artifacts/runs/recording-20261014-025738-701203/step-4-report.md",
+  "raw_flow": "artifacts/runs/recording-20261014-025738-701203/raw/demo-01.webm",
+  "clips": [
+    "artifacts/runs/recording-20261014-025738-701203/clips/scene-3.webm",
+    "artifacts/runs/recording-20261014-025738-701203/clips/scene-4.webm"
+  ],
+  "resolution": "1280x720",
+  "recorded_scene_count": 2,
+  "checkpoint_count": 4,
+  "tests": {
+    "count": 36,
+    "status": "passed"
+  },
+  "next_task": "Assemble clips, narrative scenes, voiceover, captions and music"
+}

@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+.runtime/
+.auth/
+__pycache__/
+*.pyc
+*.egg-info/
+artifacts/runs/*
+artifacts/exports/*
+!artifacts/runs/.gitkeep
+!artifacts/exports/.gitkeep

@@ -1,0 +1,23 @@
+[project]
+name = "marketing-video-system"
+version = "0.1.0"
+description = "URL-driven website research and AI marketing-video pipeline"
+requires-python = ">=3.12"
+dependencies = [
+    "browser-use[video]==0.13.11",
+    "playwright==1.63.0",
+    "pydantic==2.13.5",
+    "python-dotenv==1.2.2",
+    "google-genai==1.65.0",
+    "edge-tts==7.3.1",
+]
+
+[project.scripts]
+marketing-video = "marketing_video.__main__:run"
+
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/marketing_video"]

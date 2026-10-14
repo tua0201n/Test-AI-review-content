@@ -1,0 +1,14 @@
+{
+  "status": "complete",
+  "scope": "bounded_authenticated_functionality_audit",
+  "report": "artifacts/runs/functional-audit-20261013-174540-555042/functional-audit.md",
+  "discovery": "artifacts/runs/functional-audit-20261013-174540-555042/discovery.json",
+  "pages": 7,
+  "probes": 12,
+  "tests": {
+    "count": 21,
+    "status": "passed"
+  },
+  "next_task": "Select and replay end-to-end demo flows",
+  "demo_candidates": "artifacts/runs/functional-audit-20261013-174540-555042/demo-candidates.json"
+}

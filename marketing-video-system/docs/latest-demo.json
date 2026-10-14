@@ -1,0 +1,14 @@
+{
+  "status": "ready",
+  "plan": "artifacts/runs/prepare-demo-20261014-020932-210167/plan/demo-plan.json",
+  "validation": "artifacts/runs/prepare-demo-20261014-020932-210167/validation/validation.json",
+  "manifest": "artifacts/runs/prepare-demo-20261014-020932-210167/manifest.json",
+  "generalization_evidence": "artifacts/runs/adaptive-gemini-fixtures-20261013-175625-001723/results.json",
+  "next_task": "Task 3 complete; record verified scenes with cursor animation",
+  "report": "artifacts/runs/prepare-demo-20261014-020932-210167/step-2-report.md",
+  "tests": {
+    "count": 28,
+    "status": "passed",
+    "log": "See terminal verification for the latest run"
+  }
+}

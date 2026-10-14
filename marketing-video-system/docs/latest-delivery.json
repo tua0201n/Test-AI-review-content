@@ -1,0 +1,22 @@
+{
+  "status": "ready",
+  "source_video_manifest": "artifacts/runs/video-20261014-031048-071008/video-manifest.json",
+  "qa_report": "artifacts/runs/qa-20261014-033208-937260/qa-report.md",
+  "qa_manifest": "artifacts/runs/qa-20261014-033208-937260/delivery-manifest.json",
+  "contact_sheet": "artifacts/runs/qa-20261014-033208-937260/qa-contact-sheet.jpg",
+  "export_folder": "artifacts/exports/ai-so-easy-workforce-upskill-platform-20261014-033210",
+  "archive": "artifacts/exports/ai-so-easy-workforce-upskill-platform-20261014-033210.zip",
+  "archive_sha256": "bfd68faf4a04703c0bd4b8551bc2f32c91bcc368db8748b998cd6d7986284cdc",
+  "quality_gates": {
+    "passed": 8,
+    "total": 8
+  },
+  "security_scan": {
+    "forbidden_hits": 0,
+    "checksum_mismatches": 0
+  },
+  "tests": {
+    "count": 40,
+    "status": "passed"
+  }
+}

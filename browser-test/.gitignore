@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local configuration and test artifacts
+.env
+.venv-test/
+.uv-cache/
+.uv-python/
+.browsers/
+.tmp/
+results/
+.browser-use/
+.cache/
+.auth/

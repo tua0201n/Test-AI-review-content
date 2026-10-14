@@ -1,0 +1,19 @@
+{
+  "status": "ready",
+  "source_storyboard": "artifacts/runs/storyboard-20261014-025204-329111/storyboard.json",
+  "source_recording": "artifacts/runs/recording-20261014-025738-701203/recording-manifest.json",
+  "manifest": "artifacts/runs/video-20261014-031048-071008/video-manifest.json",
+  "video": "artifacts/runs/video-20261014-031048-071008/marketing-video.mp4",
+  "subtitles": "artifacts/runs/video-20261014-031048-071008/subtitles.srt",
+  "qa_contact_sheet": "artifacts/runs/video-20261014-031048-071008/qa-contact-sheet.jpg",
+  "report": "artifacts/runs/video-20261014-031048-071008/step-5-report.md",
+  "duration_seconds": 37,
+  "resolution": "1280x720",
+  "fps": 30,
+  "voice": "vi-VN-HoaiMyNeural",
+  "tests": {
+    "count": 38,
+    "status": "passed"
+  },
+  "next_task": "Run final QA and package the deliverables"
+}
